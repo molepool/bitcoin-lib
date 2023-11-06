@@ -1,2 +1,1 @@
 # bitcoin-lib
-bitcoin-lib
